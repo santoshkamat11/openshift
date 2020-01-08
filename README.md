@@ -1,1 +1,1 @@
-# openshift
+# jenkins-pipeline
